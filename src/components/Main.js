@@ -108,15 +108,6 @@ class Main extends React.Component {
 
 
           </p>
-          <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
-          </p>
           {close}
         </article>
 
@@ -132,13 +123,11 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
-            eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
-            erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-            lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
-            Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
-            Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit
-            amet.
+          I enjoy photography and using Adobe suite to create mixed media art
+            to sell as NFT's. I also design and create japanese tie-dye shirts with patches that signal an 
+            Augmented Reality animation. Currently I am reading Creative Strategy and the Business of Design, 
+            Powered By Design, Man's Search for Meaning, and The I Ching. I believe in living holistically, 
+            the love of dogs, video games, and that small acts of kindness create peace globally.
           </p>
           {close}
         </article>
@@ -153,7 +142,7 @@ class Main extends React.Component {
           <h2 className="major">Contact</h2>
           <form method="post" action="#">
             <div className="field half first">
-              <label htmlFor="name">Name</label>
+              <label htmlFor="name">Jessamine Brown</label>
               <input type="text" name="name" id="name" />
             </div>
             <div className="field half">
@@ -176,30 +165,30 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
-                href="https://twitter.com/HuntaroSan"
+                href="https://twitter.com/jessrawrmine"
                 className="icon fa-twitter"
               >
                 <span className="label">Twitter</span>
               </a>
             </li>
             <li>
-              <a href="https://codebushi.com" className="icon fa-facebook">
-                <span className="label">Facebook</span>
+              <a href="https://git" className="icon fa-github">
+                <span className="label">GitHub</span>
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="https://codebushi.com" className="icon fa-instagram">
                 <span className="label">Instagram</span>
               </a>
-            </li>
-            <li>
+            </li> */}
+            {/* <li>
               <a
                 href="https://github.com/codebushi/gatsby-starter-dimension"
                 className="icon fa-github"
               >
                 <span className="label">GitHub</span>
               </a>
-            </li>
+            </li> */}
           </ul>
           {close}
         </article>
