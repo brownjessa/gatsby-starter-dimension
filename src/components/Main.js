@@ -142,7 +142,7 @@ class Main extends React.Component {
           <h2 className="major">Contact</h2>
           <form method="post" action="#">
             <div className="field half first">
-              <label htmlFor="name">Jessamine Brown</label>
+              <label htmlFor="name">Name</label>
               <input type="text" name="name" id="name" />
             </div>
             <div className="field half">
