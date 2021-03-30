@@ -33,24 +33,17 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+            An innovative and solution-focused UX/UI, Product Designer and fledgling front-end developer. 
+            My passion is for technology and designing responsive 2D products as well as designing 3D enviornments 
+            and products.
+            Check out my <a href="https://drive.google.com/file/d/1-GbjH4CyK6d5OhDWAkQsjhxQNgRMbyUK/view?usp=sharing">Resume</a>.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+            I enjoy photography and using Adobe suite to create mixed media art
+            to sell as NFT's. I also design and create japanese tie-dye shirts with patches that signal an 
+            Augmented Reality animation. Currently I am reading Creative Strategy and the Business of Design, 
+            Powered By Design, Man's Search for Meaning, and The I Ching. I believe in living holistically, 
+            the love of dogs, video games, and that small acts of kindness create peace globally.
           </p>
           {close}
         </article>
@@ -67,10 +60,53 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+          <header> 
+          <h2>Member Dashboard</h2>
+        <section>
+          <ul className ="alt">
+										<li><a href="https://xd.adobe.com/view/31e9a0aa-23bf-46f0-80ba-1cdafdf45095-64ba/">Dark Theme</a></li>
+										<li><a href="https://xd.adobe.com/view/31e9a0aa-23bf-46f0-80ba-1cdafdf45095-64ba/">Light Theme</a></li>
+									</ul>
+          </section>
+          </header>
+
+          <header className="major"> 
+          <h2>Hierarchy User Flows</h2>
+        <section>
+          <ul className="alt">
+										<li><a href="https://drive.google.com/file/d/1aCYT1qtywtGtIPlszj45kEUPBnLBGiD2/view?usp=sharing">Super Admin</a></li>
+										<li><a href="https://drive.google.com/file/d/1dNG13jUipryqD3i5dEmJvkQH9RwGmqvN/view?usp=sharing">Admin</a></li>
+                    <li><a href="https://drive.google.com/file/d/1Mxf---rD1xtY2dbSu7VUQ8JejYRFS0ji/view?usp=sharing">Standard Users</a></li>
+									</ul>
+          </section>
+          </header>
+
+          <header> 
+          <h2>Cyber Data Viz</h2>
+          <div className="content">
+        <section>
+          <ul className="alt">
+										<li><a href="https://xd.adobe.com/view/f6859d87-9ab1-4572-9efa-f98264673a36-a3d6/">Mock</a></li>
+										<li><a href="https://xd.adobe.com/view/b23fa9d3-90f0-4e05-96e2-b4f688a30be1-e76c/">Styling Guide</a></li>
+                    <li><a href="https://xd.adobe.com/view/aa14890d-0c8c-4aaa-8601-8dbaa7ecc460-ff47/">Styling Edit</a></li>
+									</ul>
+          </section>
+          </div>
+          </header>
+
+          <header> 
+          <h2>3D--VR Design</h2>
+        <section>
+          <ul className="alt">
+										<li><a href="https://hubs.mozilla.com/scenes/Hb96YHJ">Surrounded Lake VR Hub</a></li>
+										<li><a href="https://drive.google.com/file/d/1fEbHqEP7v-Vhn7bjy0wqefB5VgmGFZ8b/view">2D/3D Webex Conference Room</a></li>
+									</ul>
+                  <p>Please access via Desktop using Google Chrome</p>
+          </section>
+          </header>
+
+
+
           </p>
           <p>
             Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
