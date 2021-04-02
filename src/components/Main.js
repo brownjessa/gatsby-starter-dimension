@@ -1,8 +1,8 @@
 import PropTypes from 'prop-types'
 import React from 'react'
-import pic01 from '../images/pic01.jpg'
-import pic02 from '../images/pic02.jpg'
-import pic03 from '../images/pic03.jpg'
+import pic01 from '../images/pic01v.jpg'
+import pic02 from '../images/pic02v.jpg'
+import pic03 from '../images/pic03v.jpg'
 
 class Main extends React.Component {
   render() {
@@ -36,7 +36,7 @@ class Main extends React.Component {
             An innovative and solution-focused UX/UI, Product Designer and fledgling front-end developer. 
             My passion is for technology and designing responsive 2D products as well as designing 3D enviornments 
             and products.
-            Check out my <a href="https://drive.google.com/file/d/1-GbjH4CyK6d5OhDWAkQsjhxQNgRMbyUK/view?usp=sharing">Resume</a>.
+            Check out my <a href="#">Resume</a>.
           </p>
           <p>
             I enjoy photography and using Adobe suite to create mixed media art
@@ -64,8 +64,8 @@ class Main extends React.Component {
           <h2>Member Dashboard</h2>
         <section>
           <ul className ="alt">
-										<li><a href="https://xd.adobe.com/view/31e9a0aa-23bf-46f0-80ba-1cdafdf45095-64ba/">Dark Theme</a></li>
-										<li><a href="https://xd.adobe.com/view/31e9a0aa-23bf-46f0-80ba-1cdafdf45095-64ba/">Light Theme</a></li>
+										<li><a href="#">Dark Theme</a></li>
+										<li><a href="#">Light Theme</a></li>
 									</ul>
           </section>
           </header>
@@ -74,9 +74,9 @@ class Main extends React.Component {
           <h2>Hierarchy User Flows</h2>
         <section>
           <ul className="alt">
-										<li><a href="https://drive.google.com/file/d/1aCYT1qtywtGtIPlszj45kEUPBnLBGiD2/view?usp=sharing">Super Admin</a></li>
-										<li><a href="https://drive.google.com/file/d/1dNG13jUipryqD3i5dEmJvkQH9RwGmqvN/view?usp=sharing">Admin</a></li>
-                    <li><a href="https://drive.google.com/file/d/1Mxf---rD1xtY2dbSu7VUQ8JejYRFS0ji/view?usp=sharing">Standard Users</a></li>
+										<li><a href="#">Super Admin</a></li>
+										<li><a href="#">Admin</a></li>
+                    <li><a href="#">Standard Users</a></li>
 									</ul>
           </section>
           </header>
@@ -86,9 +86,9 @@ class Main extends React.Component {
           <div className="content">
         <section>
           <ul className="alt">
-										<li><a href="https://xd.adobe.com/view/f6859d87-9ab1-4572-9efa-f98264673a36-a3d6/">Mock</a></li>
-										<li><a href="https://xd.adobe.com/view/b23fa9d3-90f0-4e05-96e2-b4f688a30be1-e76c/">Styling Guide</a></li>
-                    <li><a href="https://xd.adobe.com/view/aa14890d-0c8c-4aaa-8601-8dbaa7ecc460-ff47/">Styling Edit</a></li>
+										<li><a href="#">Mock</a></li>
+										<li><a href="#">Styling Guide</a></li>
+                    <li><a href="#">Styling Edit</a></li>
 									</ul>
           </section>
           </div>
@@ -98,8 +98,8 @@ class Main extends React.Component {
           <h2>3D--VR Design</h2>
         <section>
           <ul className="alt">
-										<li><a href="https://hubs.mozilla.com/scenes/Hb96YHJ">Surrounded Lake VR Hub</a></li>
-										<li><a href="https://drive.google.com/file/d/1fEbHqEP7v-Vhn7bjy0wqefB5VgmGFZ8b/view">2D/3D Webex Conference Room</a></li>
+										<li><a href="#">Surrounded Lake VR Hub</a></li>
+										<li><a href="#">2D/3D Webex Conference Room</a></li>
 									</ul>
                   <p>Please access via Desktop using Google Chrome</p>
           </section>
